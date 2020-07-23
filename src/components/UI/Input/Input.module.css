@@ -1,0 +1,18 @@
+.mainDiv{
+	margin-bottom: 1.5rem;
+	width: 100%;
+}
+.Input{
+	margin:0.5rem;
+	padding: 1rem;
+	border-radius: 1rem;
+	outline: none;
+	border: none;
+	box-shadow: 0 0 2rem rgba(0, 0, 0, 0.2);
+	width: 85%;
+}
+.div>span{
+	color:#f01f30;
+	font-size: 1rem;
+	font-weight: bold;
+}
